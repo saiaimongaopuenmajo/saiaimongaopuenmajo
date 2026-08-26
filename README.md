@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**saiaimongaopuenmajo/saiaimongaopuenmajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+สวัสดีครับผม saiaimongaopuenmajo (ใส่ไอ้โม้งเอาปืนมาจ่อ) 👋
+นักศึกษาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 1 มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
 
-Here are some ideas to get you started:
+[หนึ่งประโยคว่าสนใจสร้างอะไร เขียนให้เจาะจง]
+ผมสนใจในเรื่อง DX 
+🔗 เว็บไซต์ของผม/ดิฉัน: https://[username].github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 กำลังเรียนรู้
+พื้นฐานอินเทอร์เน็ตและบริการออนไลน์
+HTML และ CSS
+การใช้ Git และ GitHub
+🎯 สนใจไปทางไหน
+ระบบสมองกลฝังตัว (Embedded systems) และ IoT
+เครือข่ายคอมพิวเตอร์
+การพัฒนาเว็บ
+📌 ผลงาน
+ยังอยู่ในช่วงเริ่มต้น กำลังสะสมผลงานทีละชิ้น ติดตามได้ที่เว็บไซต์ด้านบน
+
+📫 ติดต่อผ่าน [https://github.com/saiaimongaopuenmajo)](https://github.com/saiaimongaopuenmajo) ได้เลย
