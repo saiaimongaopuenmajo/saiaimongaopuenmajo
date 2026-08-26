@@ -5,7 +5,7 @@
 
 ผมสนใจในเรื่อง DX 
 
-🌱 กำลังเรียนรู้
+🌱 กำลังเรียนรู้ 
 พื้นฐานอินเทอร์เน็ตและบริการออนไลน์
 HTML และ CSS
 การใช้ Git และ GitHub
@@ -16,4 +16,4 @@ HTML และ CSS
 📌 ผลงาน
 ยังอยู่ในช่วงเริ่มต้น กำลังสะสมผลงานทีละชิ้น ติดตามได้ที่เว็บไซต์ด้านบน
 
-📫 ติดต่อผ่าน [https://github.com/saiaimongaopuenmajo)](https://github.com/saiaimongaopuenmajo) ได้เลย
+📫 ติดต่อผ่าน https://github.com/saiaimongaopuenmajo ได้เลย
