@@ -514,42 +514,6 @@ FUTURE
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saiaimongaopuenmajo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiaimongaopuenmajo&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=saiaimongaopuenmajo&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saiaimongaopuenmajo&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/saiaimongaopuenmajo/saiaimongaopuenmajo/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 # 🧩 How I Learn
 
 ```text
