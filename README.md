@@ -55,13 +55,13 @@ DX | CyberSecurity | IoT | Embedded Systems | Networking | Web Development
 ### Languages & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
 </p>
 
 ---
