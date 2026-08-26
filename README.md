@@ -1,4 +1,4 @@
-# Hello, I'm `saiaimongaopuenmajo`
+# what's up, I'm `saiaimongaopuenmajo`
 
 > **ใส่ไอ้โม่งเอาปืนมาจ่อ** 🔫
 > Computer Engineering Student • IT Support • Builder • Curious Mind
@@ -191,13 +191,13 @@ Notification
 * Endpoint Security
 * Safe Computing Practices
 
-ผมเคยศึกษาและจัดทำเนื้อหาเกี่ยวกับ **CyberSecurity Training สำหรับผู้ใช้งานและนักศึกษาฝึกงาน** รวมถึงตัวอย่าง Phishing และแนวทางการป้องกัน
+ผมเคยศึกษาและจัดทำเนื้อหาเกี่ยวกับ **CyberSecurity Training สำหรับพนักงานและนักศึกษาฝึกงานในบริษัท** รวมถึงตัวอย่าง Phishing และแนวทางการป้องกัน
 
 ---
 
 ## 🏢 IT Support & DX
 
-มีประสบการณ์ด้าน **IT Support / DX** ในสภาพแวดล้อมองค์กร
+มีประสบการณ์ด้าน **IT Support / DX** 
 
 ### Technologies & Systems
 
@@ -500,22 +500,6 @@ Build Again
 ```
 
 เพราะการเขียนโปรแกรมที่ดีที่สุดบางครั้งเริ่มจากการเขียนอะไรโง่ ๆ แล้วนั่งสงสัยว่าทำไมมันถึงไม่ทำงาน
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiaimongaopuenmajo\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiaimongaopuenmajo\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/saiaimongaopuenmajo/saiaimongaopuenmajo/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Connect With Me
 
